@@ -1,0 +1,22 @@
+cílená skupina
+    běžný uživatel
+        --> průzkum probíhá dotazováním lidí v našem okolí
+    
+funkcionalita
+  diář
+      ?? možná synchronizace s Google calendarem ??
+  možnost naplánování trasy / denního programu zadáním požadovaných aktivit
+      pevné termíny (diář)
+      využívání externího softu
+        mapy - nejkratší vzdálenost
+        spoje - nejrychlejší doprava
+    možnost volby typu dopravy (pěšky, MHD, auto)
+    
+účty
+  možnost synchronizace mezi účty (společné plánování)
+    kde se potkat
+    společné cesty
+    
+typ výstupu
+  "teď dělej to a to, pak dojdi tam, nasedni na tohleto jeď až sem..."
+  
